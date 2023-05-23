@@ -111,3 +111,4 @@ export const Home = (): JSX.Element => {
     </main>
   );
 };
+
